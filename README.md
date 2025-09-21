@@ -1,1 +1,3 @@
 # Youtube-Downloader
+
+# Extract the ffmpeg folder to the C:\ directory. Then add C:\ffmpeg\bin to the PATH variable. It is a requirement of ffmpeg youtube-dl library.
